@@ -1,0 +1,35 @@
+---
+
+import Layout from "../layouts/Layout.astro";
+import { getCollection, render } from "astro:content";
+
+export async function getStaticPaths() {
+  const churches = await getCollection("churches");
+  
+  console.log(churches); 
+  
+
+  return churches.map((church: any) => ({
+    params: {
+      id: church.slug,
+    },
+    props: {
+      church,
+    },
+  }));
+
+}
+
+const {church} = Astro.props;
+const { data } = church;
+const { title, latitude, longitude, image, address } = data;
+
+const { Content } = await render(church)
+---
+
+<Layout>
+  <h1>{title}</h1>
+  <section>
+    <Content />
+  </section>
+</Layout>
