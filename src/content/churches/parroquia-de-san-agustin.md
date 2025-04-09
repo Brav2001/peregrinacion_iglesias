@@ -1,0 +1,20 @@
+---
+title: PARROQUIA DE SAN AGUSTÍN
+latitude: 123323
+longitude: -432434
+image: /PARROQUIA-DE-SAN-AGUSTIN.jpg
+address: en tu casa
+---
+
+En el año de 1596 se inicia la construcción de la ermita de San Sebastián, que hoy conocemos con el nombre de Iglesia de San Agustín, según datos tomados del libro Historia de la ciudad de Ocaña, monografía eclesiástica de la parroquia de Ocaña, donde su autor el Pbro. Manuel B. Pacheco, cita:
+“vino en visita oficial en el año de 1596 D. Pedro Martínez Serrano, canónigo de la Catedral de Santa Marta… El Capitán de Infantería Don Juan Quintero Príncipe aprovechó la oportunidad que le ofrecía la presencia de aquel visitador eclesiástico, para pedirle permiso de construir una ermita o asilo en honor del glorioso Mártir San Sebastián. En efecto, el señor Martínez Serrano le otorgó gustoso la licencia, fijando como sitio para la erección la otra pequeña plazuela, situada al norte de la ciudad, la que más tarde se denominó “San Agustín”, por habérsele cedido a una comunidad de religiosos distinguida con este nombre.”
+En el año de 1630, el Ilmo. Sr. Dr. D. Fray Antonio Corderiña Hernández y Alcedo, le concedió permiso al Cabildo de la ciudad, para que la Ermita de San Sebastián se les otorgara a los religiosos Agustinos, para que allí fundaran el convento.
+“Elevada la solicitud ante el provincial de la orden, dio respuesta favorable, autorizando a los RR. PP. Fray Juan Adame Motemayor y Antonio de San Guillermo, residentes en la población, para que tomaran canónica posesión de la ermita a nombre de la comunidad, acto que no se verificó sino el 2 de Junio de 1634, después de haber obtenido el Ilmo. Sr. Corderiña todas las licencias del caso…” Pbro. Manuel B. Pacheco Pbro. Manuel B. Pacheco La actual Iglesia de san Agustín de estilo colonial, es una de las pocas edificaciones eclesiásticas que mejor conserva su estilo original, debido a las pocas intervenciones que ha tenido.
+Su fachada forma un solo cuerpo, con un acceso principal, en arco de medio punto, este acceso está enmarcado por un frontón, con columnas sobre puestas y una cornisa en la parte superior que completa el rectángulo que lo conforma. Los lados laterales del frontón está conformado por 4 columnas ubicadas una sobre la otra, las primeras columnas se ubican en la parte inferior del frontón, con basas rectangulares, sus fustes son circulares y lisos, finalizando en un capitel que le da inicio al arco de medio punto de la puerta y sirve de base de las columnas que dan su continuidad, estas columnas cambian su forma a la rectangular, con un fuste liso dividido en dos, el cual termina en un capitel que le da continuidad a la cornisa que enmarca el vano del acceso.
+
+Sobre el frontón encontramos una ventana rectangular, en madera, que ayuda a iluminar el coro que se encuentra al interior de la Iglesia.
+A cada lado del acceso principal encontramos dos puertas rectangulares que dan acceso a la casa cural.
+La fachada remata en espadaña, con un frontón conformada por tres semiarcos y una cruz; En su parte derecha sobresale un elemento con dos cuerpos horizontales separados por cornisas, el primer cuerpo tiene dos vanos con arcos de medio punto, con las campanas en su interior y finalizando el ultimo cuerpo con vano en arco de medio punto remata en forma triangular y una pequeña cruz.
+La cubierta del inmueble tiene una estructura en madera, par y nudillo, con teja de barro, la nave central posee una cubierta a dos aguas y sus naves laterales tienen cubiertas a una sola agua cada una
+El interior del inmueble está conformado por tres naves, separadas por arcos de medio punto que descansan sobre columnas sencillas lisas. A lo largo de la nave izquierda se abre una puerta y 5 ventanas en madera que colindan con la casa cural.
+El presbiterio se eleva con dos escalones y es enmarcado por un arco toral, allí encontramos la mesa del altar, el ambón y la pila bautismal. Detrás del presbiterio se encuentra un pequeño espacio semicircular donde están algunos osarios.
